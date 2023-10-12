@@ -17,7 +17,7 @@ Aplikasi ini dibuat untuk mengelola layanan internet bank dari suatu client perb
 2. Pengguna melakukan request membuat, membaca, memperbaiki, dan menghapus product pada gateway yang dapat menggunakan bantuan tools postman atau swagger. Pada gateway ini telah disediakan api dokumentasi melalui swagger yang dapat diakses melalui http://localhost:8080/swagger-ui/index.html.
 
 ## Tools Gateway
-JAVA, SPRING BOOT, LOMBOK, SWAGGER, POSTMAN
+JAVA, SPRING BOOT, MAVEN, LOMBOK, SWAGGER, POSTMAN
 
 # gateway-bank.app-bootcamp-multipolar
 Pintu keluar-masuk client dan server dari Aplikasi Bank
